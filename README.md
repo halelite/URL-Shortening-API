@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/halelite/URL-Shortening-API.git)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://halelite.github.io/URL-Shortening-API/)
 
 ## My process
 
